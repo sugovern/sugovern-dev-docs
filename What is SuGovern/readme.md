@@ -1,0 +1,3 @@
+Modern institutions require decisions to be made regularly. A blockchain-based decentralized system that makes use of smart contracts proposes an optimal solution to make this decision-making process faster and more reliable. The proposed system is called a DAO (Decentralized Autonomous Organization).
+
+The DAO system provides a unique solution where every member can participate equally. The goal of this project is to produce an efficient and ethical voting system to be used by university organizations. Each student organization will have its DAO (with the ability to create sub-DAOs) and every vote will get recorded on the blockchain.

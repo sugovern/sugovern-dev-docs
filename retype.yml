@@ -1,0 +1,8 @@
+input: .
+output: .retype
+url: http://sprojects.sabanciuniv.edu:8000/
+branding:
+  title: SuGovern
+  label: Dev Docs
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
